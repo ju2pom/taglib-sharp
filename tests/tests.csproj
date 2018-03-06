@@ -91,6 +91,7 @@
     <Compile Include="fixtures\TagLib.Tests.Images\JpegSony1Test.cs" />
     <Compile Include="fixtures\TagLib.Tests.Images\JpegSony2Test.cs" />
     <Compile Include="fixtures\TagLib.Tests.Images\JpegTangledTest.cs" />
+    <Compile Include="fixtures\TagLib.Tests.Images\RafFujiTest.cs" />
     <Compile Include="fixtures\TagLib.Tests.Images\RationalTest.cs" />
     <Compile Include="fixtures\TagLib.Tests.Images\Utils.cs" />
     <Compile Include="fixtures\TagLib.Tests.Images\Validators\CommentModificationValidator.cs" />
